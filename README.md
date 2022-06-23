@@ -24,7 +24,7 @@ Follow the instructions below to set up the environment and run this project on 
 
 * Download ZIP or clone this repo
 ```bash
-> git clone https://github.com/Mehulcoder/Chat-Application.git
+> git clone https://github.com/CRManoj/Chat-App
 ```
 * Install dependencies via NPM
 ```bash
