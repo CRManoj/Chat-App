@@ -56,7 +56,6 @@ Follow the instructions below to set up the environment and run this project on 
 #### Backend
 * express
 * NodeJS
-* compression
 * helmet
 
 #### Utils
